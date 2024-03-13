@@ -1,0 +1,67 @@
+.body{
+padding: 0;
+margin: 0;
+}
+
+.hero{
+    background-color: #9AD0C2;
+    margin: 0;
+}
+h2{
+    color: #265073;
+    font-family: san-serif;
+}
+
+.text-body-emphasis{
+font-family: text-body-emphasis;
+}
+
+.border1{
+    border-radius: 50%;
+}
+
+.container2{
+    background-color: #F1FADA;
+    margin: 0;
+    padding: 0;
+}
+
+.programmer{  
+   float: left;
+}
+
+
+.container2 p{
+    width: 50%;
+    text-align: center;
+    margin-left:25%;
+}
+
+.Skills{
+    display: inline-block;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.Skills p{
+    text-align: left;
+    margin-left: 0;
+    display: inline-block;
+}
+
+.Contact p{
+font-style: italic;
+}
+
+.btn-color{
+    background-color: #265073;
+}
+
+footer{
+    background-color: #265073;
+    
+}
+
+.text-body-secondary{
+    color: #F1FADA;
+}
